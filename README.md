@@ -48,4 +48,5 @@ YouTube | Medium | Courses
 - [Adam Marczak - Azure for Everyone](https://www.youtube.com/@Azure4Everyone)
 - [WafaStudies](https://www.youtube.com/@WafaStudies)
 - [Azure Data Factory](https://www.udemy.com/course/learn-azure-data-factory-from-scratch/learn/lecture/23973042#overview)
+
 **Google, YouTube & Chatgpt😂**
